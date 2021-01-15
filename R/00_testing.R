@@ -6,3 +6,6 @@ numer <- 1
 denom <- 2
 ## fraction
 num / denom
+
+## Programming
+1 + dem + num
