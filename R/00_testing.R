@@ -12,3 +12,5 @@ numer / denom
 
 ## Subtraction
 numer - denom
+
+## Add a fraction
