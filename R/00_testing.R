@@ -5,7 +5,10 @@ numer <- 1
 ## denominator
 denom <- 2
 ## fraction
-num / denom
+numer / denom
 
 ##  I am doing Programming
-1 + dem + num
+1 + denom + numer
+
+## Subtraction
+numer - denom
